@@ -1,0 +1,1 @@
+Retour aux sources dans ce puzzle où vous devez associer des noms de fichier à leur type MIME.

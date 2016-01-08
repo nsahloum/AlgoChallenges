@@ -1,0 +1,1 @@
+Une mission tutoriel pour les nouveaux venus : votre programme doit trouver laquelle des deux cibles est la plus proche.

@@ -1,0 +1,1 @@
+Le but de ce puzzle est de faire atterrir un vaisseau spatial sur une plateforme en toute sécurité. C'est une introduction à « Mars Lander - Episode 2 » qui est un puzzle beaucoup plus complexe. Certaines données sont superflues et la résolution de ce problème ne nécessite qu'une simple condition.

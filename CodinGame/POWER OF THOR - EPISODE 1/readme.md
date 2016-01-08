@@ -1,0 +1,1 @@
+Un problème de base pour aller un peu plus loin avec les conditions et les variables : votre programme doit permettre à Thor de rejoindre les coordonnées de l'éclair de puissance dans un champ en 2D.

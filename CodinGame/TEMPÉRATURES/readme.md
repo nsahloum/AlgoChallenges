@@ -1,0 +1,1 @@
+Votre programme doit analyser des relevés de température pour trouver la plus proche de zéro.

@@ -1,0 +1,1 @@
+Le but de ce puzzle est de trouver la coordonnée d'une bombe (ligne et colonne d'un tableau à deux dimensions). Vous devrez faire une proposition à chaque étape du puzzle et l'ajuster en fonction du résultat. Bien sûr, il y a un nombre limite de propositions.

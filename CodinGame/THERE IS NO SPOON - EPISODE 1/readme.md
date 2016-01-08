@@ -1,0 +1,1 @@
+Le but de cet exercice est de trouver, s'ils existent, les voisins de droite et d'en bas de chacun des éléments d'un tableau à deux dimensions. La difficulté réside dans le nombre de boucles imbriquées que vous devrez écrire.
