@@ -1,0 +1,1 @@
+Ce problème se déroule sur un réseau où un "virus" se déplace de nœud en nœud, cherchant une sortie. Il y a plusieurs sorties et vous devez couper un à un les accès à ces sorties, en cherchant le meilleur accès à couper à chaque tour.
